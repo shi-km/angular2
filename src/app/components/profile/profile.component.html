@@ -1,6 +1,6 @@
 <form>
     <div class="form-group">
-        <label style="text-transform: lowercase;">SEARCH BY:</label>
+        <label style="text-transform: lowercase;">search By:</label>
         <input type="text" name="search" [(ngModel)]='username' (keyup)="findUser()">
     </div>
 </form>
@@ -41,7 +41,7 @@
 
     <div class="card bg-light" *ngIf="user.public_repos">
         <div class="card-header">
-            <h2>Repos</h2>
+            <h2>Reposs</h2>
         </div>
         <div class="card-body " *ngFor="let repo of userRepos">
             <div class="card row">
