@@ -7,7 +7,7 @@ A web application for performing github searches using usernames and repositorie
 ## Setup/Installation Requirements
 
 * Clone this repo to your machine
-* `git clone` `https://github.com/shi-km/angular2`
+* `git clone `https://github.com/shi-km/angular2`
 * `cd into github-search`
 * Navigate to src  and open it on your favorite browser
 Your browser must be Angular and node.js enabled for this to work
