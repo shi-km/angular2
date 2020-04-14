@@ -1,5 +1,5 @@
 # Github Search
-check it out [https://shi-km.github.io/angular2/] 
+check it out `https://shi-km.github.io/angular2/`
 
 # Description
 A web application for performing github searches using usernames and repositories.
